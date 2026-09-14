@@ -18,7 +18,7 @@ import lombok.ToString;
 public class Student {
 
     @Id
-    private int id;
+    private Integer id;
     private String name;
     private String department;
 }
